@@ -1,3 +1,6 @@
+# Exercise
+The contents of the exercise can be found in the `some-market` folder, which is the Java Spring project that corresponds to _yourApp_.
+
 # Backend dev technical test
 We want to offer a new feature to our customers showing similar products to the one they are currently seeing. To do this we agreed with our front-end applications to create a new REST API operation that will provide them the product detail of the similar products for a given one. [Here](./similarProducts.yaml) is the contract we agreed.
 
